@@ -8,7 +8,6 @@ import {
   ImageIcon,
   MessagesSquare,
   Music,
-  Settings,
   VideoIcon,
 } from "lucide-react";
 import { useRouter } from "next/navigation";
